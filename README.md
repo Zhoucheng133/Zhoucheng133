@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ryan_Zhou
+- 👀 I like traveling
+- 🌱 I’m currently study for Master's Entrance Exam
+- 📫 You can connect with Bilibili: @-朱珠- or FaceBook: Ryan Zhou
+- 🇨🇳 I'm Chinese and live in Huai'an, Jiangsu Province
