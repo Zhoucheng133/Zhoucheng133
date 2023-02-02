@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Ryan_Zhou
 - 👀 I like traveling
-- 📫 You can connect with Bilibili: @-朱珠- or FaceBook: Ryan Zhou
+- 📫 You can connect with Bilibili: @-朱珠-
 - 🇨🇳 I'm Chinese and live in Huai'an, Jiangsu Province
