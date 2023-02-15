@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Ryan_Zhou
-- 👀 I like traveling
-- 📫 You can connect with Bilibili: @-朱珠-
 - 🇨🇳 I'm Chinese and live in Huai'an, Jiangsu Province
+- **I upload my projects to Gitee (Chinese version of the Git repository). [Click here to see it](https://gitee.com/Ryan-zhou)**
