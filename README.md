@@ -9,7 +9,7 @@
 
 **Programming preference:**
 
-- Desktop app: Electron & Vue
+- Desktop app: Electron & Vue || Flutter
 - Web: Vue
 - Mobile: Flutter || Swift UI
 - BE: Spring Boot
