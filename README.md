@@ -1,5 +1,7 @@
 Happy coding!!! 😆
 
+**Have sth to do ouside and all the request will be delayed**
+
 **Programming preference:**
 
 - Desktop app: Electron & Vue || Flutter
