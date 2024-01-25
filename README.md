@@ -31,6 +31,6 @@ Happy coding!!! 😆
 
 ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-### Top languages used
+### Most used languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhoucheng133&layout=compact)
