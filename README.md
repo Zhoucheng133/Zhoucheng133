@@ -2,8 +2,7 @@ Happy coding!!! 😆
 
 ### About me
 
-~~Student~~(~2023.6)  
-Full-time developer(~now)  
+Full-time developer  
 I love coding & anime & travel & rhythm games & photograph & cycling
 
 ### You can find me here:
@@ -21,5 +20,5 @@ I love coding & anime & travel & rhythm games & photograph & cycling
 
 ### Status
 
-- Rewrite [Virtual Directory](https://github.com/Zhoucheng133/virtual-directory)
-- Use Docker with [Mikan Helper](https://github.com/Zhoucheng133/Mikan-Helper)
+- Add global shortcut for [netPlayer Next](https://github.com/Zhoucheng133/netPlayer-Next)
+- Adaptation [pyftpGUI](https://github.com/Zhoucheng133/pyftp-GUI) for Windows
