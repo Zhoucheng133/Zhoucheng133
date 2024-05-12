@@ -20,5 +20,4 @@ I love coding & anime & travel & rhythm games & photograph & cycling
 
 ### Status
 
-- Add global shortcut for [netPlayer Next](https://github.com/Zhoucheng133/netPlayer-Next)
 - Adaptation [pyftpGUI](https://github.com/Zhoucheng133/pyftp-GUI) for Windows
