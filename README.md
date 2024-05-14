@@ -20,4 +20,4 @@ I love coding & anime & travel & rhythm games & photograph & cycling
 
 ### Status
 
-- Adaptation [pyftpGUI](https://github.com/Zhoucheng133/pyftp-GUI) for Windows
+Have a rest! 😊
