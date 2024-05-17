@@ -20,4 +20,5 @@ I love coding & anime & travel & rhythm games & photograph & cycling
 
 ### Status
 
-Learn how to use Docker with [Mikan-Helper](https://github.com/Zhoucheng133/Mikan-Helper)
+Have a rest!
+~~Learn how to use Docker with [Mikan-Helper](https://github.com/Zhoucheng133/Mikan-Helper)~~
