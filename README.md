@@ -20,4 +20,4 @@ I love coding & anime & travel & rhythm games & photograph & cycling
 
 ### Status
 
-Have a rest!
+I am ill now >_<
