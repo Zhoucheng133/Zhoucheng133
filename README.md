@@ -20,4 +20,4 @@ I love coding & anime & travel & rhythm games & photograph & cycling
 
 ### Status
 
-I am ill now >_<
+Developing [netPlayer Next](https://github.com/Zhoucheng133/netPlayer-Next) v3.0
