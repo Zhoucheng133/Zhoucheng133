@@ -17,7 +17,3 @@ I love coding & anime & travel & rhythm games & photograph & cycling
 - Tools: Python.
 - Mobile: Flutter, Swift UI. Mainly use Flutter.
 - Desktop: Flutter, Electron with Vue. It depends on functions.
-
-### Status
-
-Developing [netPlayer Next](https://github.com/Zhoucheng133/netPlayer-Next) v3.0
