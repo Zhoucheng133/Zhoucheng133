@@ -2,7 +2,6 @@ Happy coding!!! 😆
 
 ### About me
 
-Full-time developer  
 I love coding & anime & travel & rhythm games & photograph & cycling
 
 ### You can find me here:
