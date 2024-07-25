@@ -9,7 +9,7 @@ I love coding & anime & travel & rhythm games & photograph & cycling
 [bilibili](https://space.bilibili.com/5129395) &
 [osu!](https://osu.ppy.sh/users/11444852)
 
-### Develop preference:
+### Language preference:
 
 - Web: Vue3, Vue2, React. Mainly use Vue.
 - Backend: Python, JavaScript, Java. It depends on functions.
