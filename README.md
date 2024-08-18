@@ -12,7 +12,7 @@ I love coding & anime & travel & rhythm games & photograph & cycling
 ### Language preference:
 
 - Web: Vue3, Vue2, React. Mainly use Vue.
-- Backend: Python, JavaScript, Java. It depends on functions.
+- Backend: Python, Node.js, Java. It depends on functions.
 - Tools: Python.
-- Mobile: Flutter, Swift UI. Mainly use Flutter.
+- Mobile: Flutter.
 - Desktop: Flutter, Electron with Vue. It depends on functions.
