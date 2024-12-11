@@ -20,60 +20,16 @@ React (Next)|Express|Flutter||Electron
 
 ### Quick link
 
-<table>
-    <tr>
-        <td><a href="https://github.com/Zhoucheng133/netPlayer-Next">netPlayer</a></td>
-        <td>Flutter</td>
-        <td>Subsonic & Naidrome based desktop music player</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Zhoucheng133/netPlayer-Mobile">netPlayer Mobile</a></td>
-        <td>Flutter</td>
-        <td>Subsonic & Navidrome based mobile music player</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Zhoucheng133/virtual-directory">Virtual Directory</a></td>
-        <td>Electron & Vue</td>
-        <td>File sharing tool</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Zhoucheng133/Anime-Helper">Anime Helper</a></td>
-        <td>ElysiaJS & Next</td>
-        <td>Animation follow & download tool</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Zhoucheng133/Subs">Subs</a></td>
-        <td>Flutter</td>
-        <td>Multi subtitle burning tool</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Zhoucheng133/pyftp-GUI">pyftp GUI</a></td>
-        <td>Flutter</td>
-        <td>pyftpdlib GUI helper</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Zhoucheng133/AriaUI">Aria UI</a></td>
-        <td>Flutter</td>
-        <td>Aria2 remote application</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Zhoucheng133/FFmpegGUI">FFmpeg GUI</a></td>
-        <td>Flutter</td>
-        <td>ffmpeg GUI helper</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Zhoucheng133/Live-BG">LiveBG</a></td>
-        <td>Flask & Vue</td>
-        <td>netPlayer obs live background</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Zhoucheng133/Mikan-Helper"><del>Mikan Helper</del></a></td>
-        <td>Flask & React</td>
-        <td>Mikan download script</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Zhoucheng133/Mikan-Helper"><del>Anime Update Panel</del></a></td>
-        <td>Flutter</td>
-        <td>Animation update time table</td>
-    </tr>
-</table>
+|Name|Framework|Detail|
+|-|-|-|
+|[netPlayer](https://github.com/Zhoucheng133/netPlayer-Next)|Flutter|Subsonic & Naidrome based desktop music player|
+|[netPlayer Mobile](https://github.com/Zhoucheng133/netPlayer-Mobile)|Flutter|Subsonic & Navidrome based mobile music player|
+|[Virtual Directory](https://github.com/Zhoucheng133/virtual-directory)|Electron & Vue|File sharing tool|
+|[Anime Helper](https://github.com/Zhoucheng133/Anime-Helper)|ElysiaJS & Next|Animation follow & download tool|
+|[Subs](https://github.com/Zhoucheng133/Subs)|Flutter|Multi subtitle burning tool
+|[pyftp GUI](https://github.com/Zhoucheng133/pyftp-GUI)|Flutter|pyftpdlib GUI helper|
+|[Aria UI](https://github.com/Zhoucheng133/AriaUI)|Flutter|Aria2 remote application|
+|[FFmpeg GUI](https://github.com/Zhoucheng133/FFmpegGUI)|Flutter|ffmpeg GUI helper|
+|[LiveBG](https://github.com/Zhoucheng133/Live-BG)|Flask & Vue|netPlayer obs live background|
+|~~[Mikan Helper](https://github.com/Zhoucheng133/Mikan-Helper)~~|Flask & React|Mikan download script|
+|~~[Anime Update Panel](https://github.com/Zhoucheng133/Anime-Update-Panel)~~|Flutter|Animation update time table|
