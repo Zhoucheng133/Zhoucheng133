@@ -22,7 +22,7 @@ React (Next)|Express|Flutter||Electron
 
 |Name|Framework|Detail|
 |-|-|-|
-|[netPlayer](https://github.com/Zhoucheng133/netPlayer-Next)|Flutter|Subsonic & Naidrome based desktop music player|
+|[netPlayer](https://github.com/Zhoucheng133/netPlayer-Next)|Flutter|Subsonic & Navidrome based desktop music player|
 |[netPlayer Mobile](https://github.com/Zhoucheng133/netPlayer-Mobile)|Flutter|Subsonic & Navidrome based mobile music player|
 |[Virtual Directory](https://github.com/Zhoucheng133/virtual-directory)|Electron & Vue|File sharing tool|
 |[Anime Helper](https://github.com/Zhoucheng133/Anime-Helper)|ElysiaJS & Next|Animation follow & download tool|
