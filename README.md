@@ -1,7 +1,4 @@
 # 😉 Hi!
-
-I'am back!!!
-
 Happy coding!!! 😆
 
 ### About me
