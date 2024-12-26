@@ -11,7 +11,7 @@ You can find me here:
 
 ### Language preference:
 
-🌏Web | 🛢Backend | 🛠️Tools | 📱Mobile| 🖥️Desktop
+🌏 Web | 📦 Backend | 🛠️ Tools | 📱 Mobile | 🖥️ Desktop
 -|-|-|-|-
 Vue (Nuxt)|Flask|Python|Flutter|Flutter
 React (Next)|Express|Flutter||Electron
