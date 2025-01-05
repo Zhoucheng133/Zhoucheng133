@@ -29,6 +29,6 @@ React (Next)|Express|Flutter||Electron
 |[pyftp GUI](https://github.com/Zhoucheng133/pyftp-GUI)|Flutter|pyftpdlib GUI helper|
 |[Aria UI](https://github.com/Zhoucheng133/AriaUI)|Flutter|Aria2 remote application|
 |[FFmpeg GUI](https://github.com/Zhoucheng133/FFmpegGUI)|Flutter|ffmpeg GUI helper|
-|[LiveBG](https://github.com/Zhoucheng133/Live-BG)|Flask & Vue|netPlayer obs live background|
+|[LiveBG](https://github.com/Zhoucheng133/Live-BG)|Go & Vue|netPlayer obs live background|
 |~~[Mikan Helper](https://github.com/Zhoucheng133/Mikan-Helper)~~|Flask & React|Mikan download script|
 |~~[Anime Update Panel](https://github.com/Zhoucheng133/Anime-Update-Panel)~~|Flutter|Animation update time table|
