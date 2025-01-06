@@ -9,6 +9,13 @@ You can find me here:
 [bilibili](https://space.bilibili.com/5129395) &
 [osu!](https://osu.ppy.sh/users/11444852)
 
+<details>
+<summary>:D</summary>
+  
+![selfie](selfie.jpg)
+
+</details>
+
 ### Language preference:
 
 🌏 Web | 📦 Backend | 🛠️ Tools | 📱 Mobile | 🖥️ Desktop
