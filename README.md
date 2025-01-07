@@ -22,7 +22,8 @@ You can find me here:
 -|-|-|-|-
 Vue (Nuxt)|Flask|Python|Flutter|Flutter
 React (Next)|Express|Flutter||Electron
-||ElysiaJS|
+||ElysiaJS|Go|
+||Gin|
 
 ### Quick link
 
