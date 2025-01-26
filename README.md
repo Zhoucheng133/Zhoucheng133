@@ -27,16 +27,112 @@ React (Next)|Express|Flutter||Electron
 
 ### Quick link
 
-|Name|Framework|Detail|
-|-|-|-|
-|[netPlayer](https://github.com/Zhoucheng133/netPlayer-Next)|Flutter|Subsonic & Navidrome based desktop music player|
-|[netPlayer Mobile](https://github.com/Zhoucheng133/netPlayer-Mobile)|Flutter|Subsonic & Navidrome based mobile music player|
-|[Virtual Directory](https://github.com/Zhoucheng133/virtual-directory)|Electron & Vue|File sharing tool|
-|[Anime Helper](https://github.com/Zhoucheng133/Anime-Helper)|ElysiaJS & Next|Animation follow & download tool|
-|[Subs](https://github.com/Zhoucheng133/Subs)|Flutter|Multi subtitle burning tool
-|[pyftp GUI](https://github.com/Zhoucheng133/pyftp-GUI)|Flutter|pyftpdlib GUI helper|
-|[Aria UI](https://github.com/Zhoucheng133/AriaUI)|Flutter|Aria2 remote application|
-|[FFmpeg GUI](https://github.com/Zhoucheng133/FFmpegGUI)|Flutter|ffmpeg GUI helper|
-|[LiveBG](https://github.com/Zhoucheng133/Live-BG)|Go & Vue|netPlayer obs live background|
-|~~[Mikan Helper](https://github.com/Zhoucheng133/Mikan-Helper)~~|Flask & React|Mikan download script|
-|~~[Anime Update Panel](https://github.com/Zhoucheng133/Anime-Update-Panel)~~|Flutter|Animation update time table|
+<table style="text-align: left">
+<tr>
+    <th>Name</th>
+    <th>Components</th>
+    <th>Framework</th>
+    <th>Detail</th>
+</tr>
+<tr>
+    <td rowspan="2">netPlayer</td>
+    <td><a href="https://github.com/Zhoucheng133/netPlayer-Next">App</a></td>
+    <td rowspan="2">Flutter</td>
+    <td rowspan="2">Subsonic & Navidrome based desktop music player</td>
+</tr>
+<tr>
+    <td><a href="https://github.com/Zhoucheng133/netPlayer-mini-kit">Lyric Kit</a></td>
+</tr>
+<tr>
+    <td><a href="https://github.com/Zhoucheng133/netPlayer-Mobile">netPlayer Mobile</a></td>
+    <td>/</td>
+    <td>Flutter</td>
+    <td>Subsonic & Navidrome based mobile music player</td>
+</tr>
+<tr>
+    <td rowspan="2">Virtual Directory</td>
+    <td><a href="https://github.com/Zhoucheng133/virtual-directory">App</a></td>
+    <td>Electron</td>
+    <td rowspan="2">File sharing tool</td>
+</tr>
+<tr>
+    <td><a href="https://github.com/Zhoucheng133/virtual-dir-page">WebUI</a></td>
+    <td>Vue</td>
+</tr>
+<tr>
+    <td><a href="https://github.com/Zhoucheng133/Anime-Helper">Anime Helper</a></td>
+    <td>/</td>
+    <td>ElysiaJS & Next</td>
+    <td>Animation follow & download tool</td>
+</tr>
+<tr>
+    <td rowspan="3">Sharer</td>
+    <td><a href="https://github.com/Zhoucheng133/Sharer-App">App</a></td>
+    <td>Flutter</td>
+    <td rowspan="3">Similar to Virtual Directory</td>
+</tr>
+<tr>
+    <td><a href="https://github.com/Zhoucheng133/Sharer-Core">Core</a></td>
+    <td>Go</td>
+</tr>
+<tr>
+    <td><a href="https://github.com/Zhoucheng133/Sharer-Web">WebUI</a></td>
+    <td>Vue</td>
+</tr>
+<tr>
+    <td><a href="https://github.com/Zhoucheng133/Subs">Subs</a></td>
+    <td>/</td>
+    <td>Flutter</td>
+    <td>Multi subtitles burning tool</td>
+</tr>
+<tr>
+    <td><a href="https://github.com/Zhoucheng133/pyftp-GUI">pyftp GUI</a></td>
+    <td>/</td>
+    <td>Flutter</td>
+    <td>pyftpdlib GUI helper</td>
+</tr>
+<tr>
+    <td><a href="https://github.com/Zhoucheng133/AriaUI">Aria UI</a></td>
+    <td>/</td>
+    <td>Flutter</td>
+    <td>Aria2 remote application</td>
+</tr>
+<tr>
+    <td><a href="https://github.com/Zhoucheng133/FFmpegGUI">FFmpeg GUI</a></td>
+    <td>/</td>
+    <td>Flutter</td>
+    <td>FFmpeg GUI helper</td>
+</tr>
+<tr>
+    <td rowspan="2">Monitor</td>
+    <td><a href="https://github.com/Zhoucheng133/Monitor">Server</a></td>
+    <td>Spring (Kotlin)</td>
+    <td rowspan="2">System monitor page (For TEST!)</td>
+</tr>
+<tr>
+    <td><a href="https://github.com/Zhoucheng133/Monitor-UI">WebUI</a></td>
+    <td>Vue</td>
+</tr>
+<tr>
+    <td><a href="https://github.com/Zhoucheng133/Live-BG">LiveBG</a></td>
+    <td>/</td>
+    <td>Go & Vue</td>
+    <td>netPlayer obs live background</td>
+</tr>
+<tr>
+    <td rowspan="2"><del>Mikan Helper</del></td>
+    <td><a href="https://github.com/Zhoucheng133/Mikan-Helper">Server</a></td>
+    <td>Flask</td>
+    <td rowspan="2">Mikan download script</td>
+</tr>
+<tr>
+    <td><del><a href="https://github.com/Zhoucheng133/Anime-Helper-Web">WebUI</a></del></td>
+    <td>React</td>
+</tr>
+<tr>
+    <td> <a href="https://github.com/Zhoucheng133/Anime-Update-Panel"><del>Anime Update Panel</del></a></td>
+    <td>/</td>
+    <td>Flutter</td>
+    <td>Animation update time table</td>
+</tr>
+</table>
