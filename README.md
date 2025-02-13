@@ -104,6 +104,12 @@ React (Next)|Express|Flutter||Electron
     <td>FFmpeg GUI helper</td>
 </tr>
 <tr>
+    <td><a href="https://github.com/Zhoucheng133/EasyChat">EasyChat</a></td>
+    <td>/</td>
+    <td>Flutter</td>
+    <td>OpenAPI Client</td>
+</tr>
+<tr>
     <td rowspan="2">Monitor</td>
     <td><a href="https://github.com/Zhoucheng133/Monitor">Server</a></td>
     <td>Spring (Kotlin)</td>
@@ -121,7 +127,7 @@ React (Next)|Express|Flutter||Electron
 </tr>
 <tr>
     <td rowspan="2"><del>Mikan Helper</del></td>
-    <td><a href="https://github.com/Zhoucheng133/Mikan-Helper">Server</a></td>
+    <td><del><a href="https://github.com/Zhoucheng133/Mikan-Helper">Server</a></del></td>
     <td>Flask</td>
     <td rowspan="2">Mikan download script</td>
 </tr>
