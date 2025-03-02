@@ -73,7 +73,7 @@ React (Next)|Express|Flutter||Electron
 </tr>
 <tr>
     <td><a href="https://github.com/Zhoucheng133/Sharer-Core">Core</a></td>
-    <td>Go</td>
+    <td>Gin</td>
 </tr>
 <tr>
     <td><a href="https://github.com/Zhoucheng133/Sharer-Web">WebUI</a></td>
@@ -87,7 +87,7 @@ React (Next)|Express|Flutter||Electron
 </tr>
 <tr>
     <td><a href="https://github.com/Zhoucheng133/DAV-Core">Core</a></td>
-    <td>Go</td>
+    <td>Gin</td>
 </tr>
 <tr>
     <td><a href="https://github.com/Zhoucheng133/Subs">Subs</a></td>
@@ -132,7 +132,7 @@ React (Next)|Express|Flutter||Electron
 <tr>
     <td><a href="https://github.com/Zhoucheng133/Live-BG">LiveBG</a></td>
     <td>/</td>
-    <td>Go & Vue</td>
+    <td>Gin & Vue</td>
     <td>netPlayer obs live background</td>
 </tr>
 <tr>
