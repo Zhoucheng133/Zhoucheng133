@@ -120,6 +120,16 @@ React (Next)|Express|Flutter||Electron
     <td>OpenAPI Client</td>
 </tr>
 <tr>
+    <td rowspan="2">Index Page</td>
+    <td><a href="https://github.com/Zhoucheng133/Index-Page">WebUI</a></td>
+    <td>Vue</td>
+    <td rowspan="2">Server Index page</td>
+</tr>
+<tr>
+    <td><a href="https://github.com/Zhoucheng133/Index-Page-Core">Core</a></td>
+    <td>Gin</td>
+</tr>
+<tr>
     <td rowspan="2">Monitor</td>
     <td><a href="https://github.com/Zhoucheng133/Monitor">Server</a></td>
     <td>Spring (Kotlin)</td>
