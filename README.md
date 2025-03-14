@@ -60,10 +60,14 @@ React (Next)|Express|Flutter||Electron
     <td>Vue</td>
 </tr>
 <tr>
-    <td><a href="https://github.com/Zhoucheng133/Anime-Helper">Anime Helper</a></td>
-    <td>/</td>
-    <td>ElysiaJS & Next</td>
-    <td>Animation follow & download tool</td>
+    <td rowspan="2">Anime Helper</td>
+    <td><a href="https://github.com/Zhoucheng133/Anime-Helper">Core</a></td>
+    <td>ElysiaJS</td>
+    <td rowspan="2">Animation follow & download tool</td>
+</tr>
+<tr>
+    <td><a href="https://github.com/Zhoucheng133/Anime-Helper-UI">WebUI</a></td>
+    <td>Vue</td>
 </tr>
 <tr>
     <td rowspan="3">Sharer</td>
