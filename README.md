@@ -144,6 +144,12 @@ React (Next)|Express|Flutter||Electron
     <td>Vue</td>
 </tr>
 <tr>
+    <td><a href="https://github.com/Zhoucheng133/Aria-Linker">Aria Linker</a></td>
+    <td>/</td>
+    <td>/</td>
+    <td>Tampermonkey script can add task to aria</td>
+</tr>
+<tr>
     <td><a href="https://github.com/Zhoucheng133/Live-BG">LiveBG</a></td>
     <td>/</td>
     <td>Gin & Vue</td>
