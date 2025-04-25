@@ -109,7 +109,13 @@ React (Next)|Express|Flutter||Electron
     <td><a href="https://github.com/Zhoucheng133/AriaUI">Aria UI</a></td>
     <td>/</td>
     <td>Flutter</td>
-    <td>Aria2 remote application</td>
+    <td>Aria2 remote for desktop</td>
+</tr>
+<tr>
+    <td><a href="https://github.com/Zhoucheng133/Aria-Remote">Aria Remote</a></td>
+    <td>/</td>
+    <td>Flutter</td>
+    <td>Aria2 remote for mobile</td>
 </tr>
 <tr>
     <td><a href="https://github.com/Zhoucheng133/FFmpegGUI">FFmpeg GUI</a></td>
