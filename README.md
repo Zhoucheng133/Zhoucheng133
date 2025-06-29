@@ -94,6 +94,16 @@ React (Next)|Express|Flutter||Electron
     <td>Gin</td>
 </tr>
 <tr>
+    <td rowspan="2">EXIF Helper</td>
+    <td><a href="https://github.com/Zhoucheng133/EXIF-Helper">App</a></td>
+    <td>Flutter</td>
+    <td rowspan="2">Add EXIF ​​watermark tool</td>
+</tr>
+<tr>
+    <td><a href="https://github.com/Zhoucheng133/EXIF-Helper-Core">Core</a></td>
+    <td>Go</td>
+</tr>
+<tr>
     <td><a href="https://github.com/Zhoucheng133/Subs">Subs</a></td>
     <td>/</td>
     <td>Flutter</td>
