@@ -122,6 +122,12 @@ React (Next)|Express|Flutter||Electron
     <td>Aria2 remote for desktop</td>
 </tr>
 <tr>
+    <td><a href="https://github.com/Zhoucheng133/bitflow">BitFlow</a></td>
+    <td>/</td>
+    <td>Flutter</td>
+    <td>Aria2&qBit remote for desktop</td>
+</tr>
+<tr>
     <td><a href="https://github.com/Zhoucheng133/Aria-Remote">Aria Remote</a></td>
     <td>/</td>
     <td>Flutter</td>
