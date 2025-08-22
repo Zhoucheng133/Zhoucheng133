@@ -50,16 +50,6 @@ React (Next)|Express|Flutter||Electron
     <td>Subsonic & Navidrome based mobile music player</td>
 </tr>
 <tr>
-    <td rowspan="2">Virtual Directory</td>
-    <td><a href="https://github.com/Zhoucheng133/virtual-directory">App</a></td>
-    <td>Electron</td>
-    <td rowspan="2">File sharing tool</td>
-</tr>
-<tr>
-    <td><a href="https://github.com/Zhoucheng133/virtual-dir-page">WebUI</a></td>
-    <td>Vue</td>
-</tr>
-<tr>
     <td rowspan="2">Anime Helper</td>
     <td><a href="https://github.com/Zhoucheng133/Anime-Helper">Core</a></td>
     <td>ElysiaJS</td>
@@ -94,6 +84,12 @@ React (Next)|Express|Flutter||Electron
     <td>Gin</td>
 </tr>
 <tr>
+    <td>BitFlow</td>
+    <td><a href="https://github.com/Zhoucheng133/BitFlow">App</a></td>
+    <td>Flutter</td>
+    <td >qBittorrent & Aria Cilent for desktop & mobile</td>
+</tr>
+<tr>
     <td rowspan="2">EXIF Helper</td>
     <td><a href="https://github.com/Zhoucheng133/EXIF-Helper">App</a></td>
     <td>Flutter</td>
@@ -114,18 +110,6 @@ React (Next)|Express|Flutter||Electron
     <td>/</td>
     <td>Flutter</td>
     <td>pyftpdlib GUI helper</td>
-</tr>
-<tr>
-    <td><a href="https://github.com/Zhoucheng133/AriaUI">Aria UI</a></td>
-    <td>/</td>
-    <td>Flutter</td>
-    <td>Aria2 remote for desktop</td>
-</tr>
-<tr>
-    <td><a href="https://github.com/Zhoucheng133/Aria-Remote">Aria Remote</a></td>
-    <td>/</td>
-    <td>Flutter</td>
-    <td>Aria2 remote for mobile</td>
 </tr>
 <tr>
     <td><a href="https://github.com/Zhoucheng133/FFmpegGUI">FFmpeg GUI</a></td>
@@ -170,6 +154,28 @@ React (Next)|Express|Flutter||Electron
     <td>/</td>
     <td>Gin & Vue</td>
     <td>netPlayer obs live background</td>
+</tr>
+<tr>
+    <td rowspan="2">Virtual Directory</td>
+    <td><a href="https://github.com/Zhoucheng133/virtual-directory">App</a></td>
+    <td>Electron</td>
+    <td rowspan="2">File sharing tool</td>
+</tr>
+<tr>
+    <td><a href="https://github.com/Zhoucheng133/virtual-dir-page">WebUI</a></td>
+    <td>Vue</td>
+</tr>
+<tr>
+    <td><del><a href="https://github.com/Zhoucheng133/AriaUI">Aria UI</a></del></td>
+    <td>/</td>
+    <td>Flutter</td>
+    <td>Aria2 remote for desktop</td>
+</tr>
+<tr>
+    <td><del><a href="https://github.com/Zhoucheng133/Aria-Remote">Aria Remote</a></del></td>
+    <td>/</td>
+    <td>Flutter</td>
+    <td>Aria2 remote for mobile</td>
 </tr>
 <tr>
     <td rowspan="2"><del>Mikan Helper</del></td>
