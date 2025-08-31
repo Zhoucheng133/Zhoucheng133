@@ -63,7 +63,7 @@ React (Next)|Express|Flutter||Electron
     <td rowspan="3">Sharer</td>
     <td><a href="https://github.com/Zhoucheng133/Sharer-App">App</a></td>
     <td>Flutter</td>
-    <td rowspan="3">Similar to Virtual Directory</td>
+    <td rowspan="3">File sharing tool based on Flutter/td>
 </tr>
 <tr>
     <td><a href="https://github.com/Zhoucheng133/Sharer-Core">Core</a></td>
@@ -156,13 +156,13 @@ React (Next)|Express|Flutter||Electron
     <td>netPlayer obs live background</td>
 </tr>
 <tr>
-    <td rowspan="2">Virtual Directory</td>
-    <td><a href="https://github.com/Zhoucheng133/virtual-directory">App</a></td>
+    <td rowspan="2"><del>Virtual Directory</del></td>
+    <td><del><a href="https://github.com/Zhoucheng133/virtual-directory">App</a></del></td>
     <td>Electron</td>
     <td rowspan="2">File sharing tool</td>
 </tr>
 <tr>
-    <td><a href="https://github.com/Zhoucheng133/virtual-dir-page">WebUI</a></td>
+    <td><del><a href="https://github.com/Zhoucheng133/virtual-dir-page">WebUI</a></del></td>
     <td>Vue</td>
 </tr>
 <tr>
