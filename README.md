@@ -63,7 +63,7 @@ React (Next)|Express|Flutter||Electron
     <td rowspan="3">Sharer</td>
     <td><a href="https://github.com/Zhoucheng133/Sharer-App">App</a></td>
     <td>Flutter</td>
-    <td rowspan="3">File sharing tool based on Flutter/td>
+    <td rowspan="3">File sharing tool based on Flutter</td>
 </tr>
 <tr>
     <td><a href="https://github.com/Zhoucheng133/Sharer-Core">Core</a></td>
