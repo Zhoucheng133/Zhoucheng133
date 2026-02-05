@@ -9,7 +9,7 @@ You can find me here:
 [bilibili](https://space.bilibili.com/5129395) &
 [osu!](https://osu.ppy.sh/users/11444852)
 
-You can see all projects I developed [HERE](https://zhoucheng133.github.io/myblog/myprj/myprj)
+You can see all projects I developed [HERE](https://zhoucheng133.github.io/myprj/)
 
 <details>
 <summary>:D</summary>
