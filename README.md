@@ -14,7 +14,7 @@ You can see all projects I developed [HERE](https://blog.z-server.top/myprj/)
 
 </details>
 
-### Donate
+### Sponsor
 
-如果我开发的项目帮助到了你，欢迎[给我投喂](https://blog.z-server.top/donate/)谢谢 🙏  
-If this project was helpful, consider [buying me a coffee](https://blog.z-server.top/donate/). Cheers! ☕
+如果我开发的项目帮助到了你，欢迎[给我投喂](https://blog.z-server.top/sponsor/)谢谢 🙏  
+If this project was helpful, consider [buying me a coffee](https://blog.z-server.top/sponsor/). Cheers! ☕
