@@ -5,10 +5,6 @@ Happy coding!!! 😆
 
 I love 👨🏻‍💻 coding & 🍿 anime & ✈️ travel & 🎮 rhythm games & 📷 photograph
 
-You can find me here:  
-[bilibili](https://space.bilibili.com/5129395) &
-[osu!](https://osu.ppy.sh/users/11444852)
-
 You can see all projects I developed [HERE](https://blog.z-server.top/myprj/)
 
 <details>
@@ -17,3 +13,8 @@ You can see all projects I developed [HERE](https://blog.z-server.top/myprj/)
 ![selfie](selfie.jpg)
 
 </details>
+
+### Donate
+
+如果我开发的项目帮助到了你，欢迎[给我投喂谢谢](https://blog.z-server.top/donate/) 🙏  
+If this project was helpful, consider [buying me a coffee](https://blog.z-server.top/donate/). Cheers! ☕
