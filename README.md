@@ -7,6 +7,9 @@ I love 👨🏻‍💻 coding & 🍿 anime & ✈️ travel & 🎮 rhythm games &
 
 You can see all projects I developed [HERE](https://blog.z-server.top/myprj/)
 
+➜ [Microsoft Store](https://apps.microsoft.com/search/publisher?name=ZhouCheng)  
+➜ [Docker Hub](https://hub.docker.com/repositories/zhouc1230)  
+
 <details>
 <summary>:D</summary>
   
